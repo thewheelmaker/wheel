@@ -1,5 +1,5 @@
 # wheel
-wheel is neat it loop until last fuction got make, jumping ower fungtions that fine, it work like this.
+wheel is neat it loop until last fuction got make, jumping ower functions that fine, it work like this.
 
 
 wheel.ultraloop([[function1,inthowmanytimesfunction1,objectforfunction1],[[function2,inthowmanytimesfunction2,objectforfunction2],...       [functionn,inthowmanytimesfunctionn,objectforfunctionn]],Howmanytimewheelspinint);
