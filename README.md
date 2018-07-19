@@ -11,11 +11,18 @@ where objectforfunction1 can be exemple:
 then function1 can be
 
   function function1(i)
+  
+  
   {
+  
   console.log(i.stuff.nice); //this is 5
+  
   console.log(i.stuff.mice); // this is hello
+  
   console.log(i.pace);//this is how many times wheel has make this function
+  
   }
+  
   
 wheel.ultaloop makes this function many as many times is that number inthowmanytimesfunction1 or cut it making when it reach        Howmanytimewheelspinint,then if there is function2 wheel make same to it for all that 2D array, so ultra loop can be filled, style
   
