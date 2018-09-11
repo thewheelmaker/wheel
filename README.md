@@ -33,31 +33,31 @@ wheel.ultraloop(2Darray,Howmanytimewheelspinint);
 
 So basically if there is like
 
-for (i = 0; i < 5; i++) {
+    for (i = 0; i < 5; i++) {
 
-    hello1(i);
+        hello1(i);
     
-}
+    }
 
-for (i = 0; i < 2; i++) { 
+    for (i = 0; i < 2; i++) { 
 
-    hello2(i);
+        hello2(i);
     
-}
+    }
 
-for (i = 0; i < 10; i++) { 
+    for (i = 0; i < 10; i++) { 
 
-    hello3(i);
+         hello3(i);
     
-}
+    }
 
 This can make on wheel somewhat like this:
 
-wheel.ultraloop([[hello1,5,{}],[hello2,2,{}],[hello3,10,{}]],10);
+    wheel.ultraloop([[hello1,5,{}],[hello2,2,{}],[hello3,10,{}]],10);
 
 but now that i is object to use "it number from it" it is i.pace, and every {} is under i.stuff  
 
 if you want it bigger you just add new [] like [hello3,12,{}] like
 
-wheel.ultraloop([[hello1,5,{}],[hello2,2,{}],[hello3,10,{}],[hello3,12,{}]],12);
+    wheel.ultraloop([[hello1,5,{}],[hello2,2,{}],[hello3,10,{}],[hello3,12,{}]],12);
 
