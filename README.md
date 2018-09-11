@@ -2,25 +2,25 @@
 wheel is neat!
 It loop until last function got make, jumping over functions that fine, it work like this:
 
-wheel.ultraloop([[function1,inthowmanytimesfunction1,objectforfunction1],[[function2,inthowmanytimesfunction2,objectforfunction2],... [functionn,inthowmanytimesfunctionn,objectforfunctionn]],Howmanytimewheelspinint);
+    wheel.ultraloop([[function1,inthowmanytimesfunction1,objectforfunction1],       [[function2,inthowmanytimesfunction2,objectforfunction2],... [functionn,inthowmanytimesfunctionn,objectforfunctionn]],Howmanytimewheelspinint);
 
 where objectforfunction1 can be example:
 
-{nice:5, mice:"hello!"}
+    {nice:5, mice:"hello!"}
 
 then function1 can be
 
-function function1(i)
+    function function1(i)
 
-{
+    {
 
-console.log(i.stuff.nice); //this is 5
+    console.log(i.stuff.nice); //this is 5
 
-console.log(i.stuff.mice); // this is hello
+    console.log(i.stuff.mice); // this is hello
 
-console.log(i.pace);//this is how many times wheel has make this function
+    console.log(i.pace);//this is how many times wheel has make this function
 
-}
+    }
 
 wheel.ultaloop makes this function as many times as that number in inthowmanytimesfunction1
 
