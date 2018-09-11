@@ -2,7 +2,7 @@
 wheel is neat!
 It loop until last function got make, jumping over functions that fine, it work like this:
 
-    wheel.ultraloop([[function1,inthowmanytimesfunction1,objectforfunction1],       [[function2,inthowmanytimesfunction2,objectforfunction2],... [functionn,inthowmanytimesfunctionn,objectforfunctionn]],Howmanytimewheelspinint);
+    wheel.ultraloop([[function1,inthowmanytimesfunction1,objectforfunction1],[function2,inthowmanytimesfunction2,objectforfunction2],...[functionn,inthowmanytimesfunctionn,objectforfunctionn]],Howmanytimewheelspinint);
 
 where objectforfunction1 can be example:
 
