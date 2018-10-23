@@ -1,5 +1,8 @@
 # wheel
-wheel is neat!
+wheel is neat! Test it silly toy here:
+http://jsfiddle.net/narutofanforewe/Ld1ytj2v/
+
+
 It loop until last function got make, jumping over functions that fine, it work like this:
 
     wheel.ultraloop([[function1,inthowmanytimesfunction1,objectforfunction1],[function2,inthowmanytimesfunction2,objectforfunction2],...[functionn,inthowmanytimesfunctionn,objectforfunctionn]],Howmanytimewheelspinint);
