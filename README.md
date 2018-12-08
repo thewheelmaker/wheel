@@ -25,7 +25,7 @@ then function1 can be
 
     }
 
-wheel.ultaloop makes this function as many times as that number in inthowmanytimesfunction1
+wheel.ultraloop makes this function as many times as that number in inthowmanytimesfunction1
 
 or cut it making when it reach Howmanytimewheelspinint,
 
